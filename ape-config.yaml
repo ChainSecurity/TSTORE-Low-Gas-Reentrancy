@@ -1,0 +1,4 @@
+name: tstore_reentrancy_example
+plugins:
+  - name: vyper
+    evm_version: cancun
